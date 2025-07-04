@@ -1,0 +1,21 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "q550a2506.moc3",
+    "Textures": ["q550a2506.8192/texture_00.png"],
+    "Physics": "q550a2506.physics3.json",
+    "DisplayInfo": "q550a2506.cdi3.json"
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    }
+  ]
+}
