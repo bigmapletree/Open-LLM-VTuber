@@ -1,5 +1,27 @@
 [
     {
+        "name": "q550a2506",
+        "description": "q550a2506",
+        "url": "/live2d-models/q550a2506/q550a2506.model3.json",
+        "kScale": 0.3,
+        "initialXshift": 0,
+        "initialYshift": 0,
+        "kXOffset": 1150,
+        "idleMotionGroupName": "Idle",
+        "emotionMap": {
+            "anger":0,
+            "joy":1,
+            "admiration": 2,
+            "sadness":3,
+            "fear": 4,
+            "shyness": 5,
+            "depression": 6,
+            "disgust": 7,
+            "confusion" : 8,
+            "neutral": 1
+        }
+    },
+    {
         "name": "duoduo",
         "description": "Duoduo",
         "url": "/live2d-models/duoduo/L003/L003.model3.json",
